@@ -15,6 +15,7 @@
 		567583661FEF604C00B323C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 567583641FEF604C00B323C7 /* LaunchScreen.storyboard */; };
 		567583711FEF604C00B323C7 /* MyFinancesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567583701FEF604C00B323C7 /* MyFinancesTests.swift */; };
 		5675837C1FEF604C00B323C7 /* MyFinancesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5675837B1FEF604C00B323C7 /* MyFinancesUITests.swift */; };
+		5675838A1FF35B9C00B323C7 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567583891FF35B9C00B323C7 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		567583771FEF604C00B323C7 /* MyFinancesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFinancesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5675837B1FEF604C00B323C7 /* MyFinancesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFinancesUITests.swift; sourceTree = "<group>"; };
 		5675837D1FEF604C00B323C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		567583891FF35B9C00B323C7 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				567583641FEF604C00B323C7 /* LaunchScreen.storyboard */,
 				567583671FEF604C00B323C7 /* Info.plist */,
 				5675835F1FEF604C00B323C7 /* MyFinances.xcdatamodeld */,
+				567583891FF35B9C00B323C7 /* Extensions.swift */,
 			);
 			path = MyFinances;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				567583611FEF604C00B323C7 /* MyFinances.xcdatamodeld in Sources */,
 				5675835B1FEF604C00B323C7 /* ViewController.swift in Sources */,
 				567583591FEF604C00B323C7 /* AppDelegate.swift in Sources */,
+				5675838A1FF35B9C00B323C7 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
