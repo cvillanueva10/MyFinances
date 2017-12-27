@@ -16,6 +16,8 @@
 		567583711FEF604C00B323C7 /* MyFinancesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567583701FEF604C00B323C7 /* MyFinancesTests.swift */; };
 		5675837C1FEF604C00B323C7 /* MyFinancesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5675837B1FEF604C00B323C7 /* MyFinancesUITests.swift */; };
 		5675838A1FF35B9C00B323C7 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567583891FF35B9C00B323C7 /* Extensions.swift */; };
+		5675838C1FF35DC300B323C7 /* SwipingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5675838B1FF35DC300B323C7 /* SwipingController.swift */; };
+		5675838E1FF3613E00B323C7 /* SwipingPageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5675838D1FF3613E00B323C7 /* SwipingPageCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		5675837B1FEF604C00B323C7 /* MyFinancesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFinancesUITests.swift; sourceTree = "<group>"; };
 		5675837D1FEF604C00B323C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		567583891FF35B9C00B323C7 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		5675838B1FF35DC300B323C7 /* SwipingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipingController.swift; sourceTree = "<group>"; };
+		5675838D1FF3613E00B323C7 /* SwipingPageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipingPageCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +113,8 @@
 				567583671FEF604C00B323C7 /* Info.plist */,
 				5675835F1FEF604C00B323C7 /* MyFinances.xcdatamodeld */,
 				567583891FF35B9C00B323C7 /* Extensions.swift */,
+				5675838B1FF35DC300B323C7 /* SwipingController.swift */,
+				5675838D1FF3613E00B323C7 /* SwipingPageCell.swift */,
 			);
 			path = MyFinances;
 			sourceTree = "<group>";
@@ -268,6 +274,8 @@
 				567583611FEF604C00B323C7 /* MyFinances.xcdatamodeld in Sources */,
 				5675835B1FEF604C00B323C7 /* ViewController.swift in Sources */,
 				567583591FEF604C00B323C7 /* AppDelegate.swift in Sources */,
+				5675838E1FF3613E00B323C7 /* SwipingPageCell.swift in Sources */,
+				5675838C1FF35DC300B323C7 /* SwipingController.swift in Sources */,
 				5675838A1FF35B9C00B323C7 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
